@@ -69,7 +69,7 @@
 - in the file path -> choose 'stage' container that I created before
   <img width="795" height="825" alt="image" src="https://github.com/user-attachments/assets/111656cb-40d5-4aea-af86-a7900cc0a9f0" />
 
-# step : run the pipeline and check its working or not
+# step 5 : run the pipeline and check its working or not
 
 <img width="1063" height="849" alt="image" src="https://github.com/user-attachments/assets/85f0b8ba-6066-48b8-9ced-ddbd8a124944" />
 - it works
